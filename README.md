@@ -28,8 +28,8 @@ These metrics indicate the model's strong ability to classify the sentiment of t
 | Macro Avg | 0.96      | 0.96   | 0.96     | 21300   |
 | Weighted Avg | 0.96   | 0.96   | 0.96     | 21300   |
 
-- [**Click here for Source Codes**](https://github.com/pauljony70/Sentiment-Analysis-of-Indian-Political-Tweets-2023/tree/ec49ca15b794566ff53c79ab2bfa2437bc95431b/Source%20codes)
-- [**Click here for Project Report**](https://github.com/pauljony70/Sentiment-Analysis-of-Indian-Political-Tweets-2023/blob/ec49ca15b794566ff53c79ab2bfa2437bc95431b/Project_Report_7thSEM.pdf)
+- [**Click here for Source Codes**](https://github.com/pauljony70/Sentiment-Analysis-of-Indian-Political-Tweets-2023/tree/main/Source%20codes)
+- [**Click here for Project Report**](https://github.com/pauljony70/Sentiment-Analysis-of-Indian-Political-Tweets-2023/blob/main/Project_Report_7thSEM.pdf)
 
 ## Comparative Sentiment Analysis
 
@@ -45,8 +45,8 @@ In addition to the LSTM model's sentiment analysis, a comparative analysis was c
 | INC   | VADER | 48.5%    | 16.7%   | 34.8%    |
 
 #### Visual Comparison
-![Pie Chart of BJP Tweets (Predicted By Our Model) vs (Predicted By VADER)](https://github.com/pauljony70/Sentiment-Analysis-of-Indian-Political-Tweets-2023/assets/58978137/98cca5de-0b66-4664-8dff-3fda0a91e75b)
-![Pie Chart of INC Tweets (Predicted By Our Model) vs (Predicted By VADER)](https://github.com/pauljony70/Sentiment-Analysis-of-Indian-Political-Tweets-2023/assets/58978137/434575e5-23a7-4d38-9230-70017ac70e9e)
+![Pie Chart of BJP Tweets (Predicted By Our Model) vs (Predicted By VADER)](screenshots/pie%20chart%20of%20bjp%20tweets.png)
+![Pie Chart of INC Tweets (Predicted By Our Model) vs (Predicted By VADER)](screenshots/pie%20chart%20of%20inc%20tweets.png)
 
 ### Interpretation and Insights
 
